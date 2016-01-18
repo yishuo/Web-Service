@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BookPurchaseOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="client_book.xsd">
+	<client>
+		<name>Jack</name>
+		<age>23</age>
+		<adresse>
+			<street>Bd Augustin Thierry</street>
+			<city>st-etienne</city>
+			<departement>Loire</departement>
+			<postal_code>42000</postal_code>
+		</adresse>
+	</client>
+    
+	<book>
+		<title>Le Petit Prince</title>
+		<author>
+			<name>Antoine de Saint-Exupéry</name>
+			<nationality>Française</nationality>
+			<age>43</age>
+		</author>
+		<vendor>Amazon</vendor>
+		<price>20</price>
+	</book>
+
+</BookPurchaseOrder>

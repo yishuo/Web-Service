@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BookPurchaseOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="client_book.xsd">
+	<client>
+		<name>Simon</name>
+		<age>28</age>
+		<adresse>
+			<street>Bd Emile Littr¨¦</street>
+			<city>st-etienne</city>
+			<departement>Loire</departement>
+			<postal_code>42100</postal_code>
+		</adresse>
+	</client>
+    
+	<book>
+		<title>Le Vieil Homme et la Mer</title>
+		<author>
+			<name>Ernest Hemingway</name>
+			<nationality>Am¨¦ricain</nationality>
+			<age>52</age>
+		</author>
+		<vendor>Abebooks</vendor>
+		<price>32</price>
+	</book>
+
+</BookPurchaseOrder>
