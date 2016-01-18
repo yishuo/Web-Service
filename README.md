@@ -18,5 +18,7 @@
 <p>We can get the address on the basis of ip address inputed.</p>
 <br /><br />
 <h2>TD2</h2>
-<p>Write a SOAP web service and test it.</p>
 <h6>JaveEE+GlassFish4.0</h6>
+<p>Write a SOAP web service and test it.</p>
+<p>This is the description in detail: <a href="">TD2</a></p>
+
