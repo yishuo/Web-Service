@@ -16,6 +16,7 @@
 <p>The goal is to write a Java application that consumes a web service.</p>
 <p><b>->IPLocationFinder.</b></p>
 <p>We can get the address on the basis of ip address inputed.</p>
+<p>This is the description in detail of TD1: <a href="https://github.com/yishuo/Web-Service/blob/master/TD1/TD1.pdf">TD1</a></p>
 <br /><br />
 <h2>TD2</h2>
 <h6>JaveEE+GlassFish4.0</h6>
