@@ -12,5 +12,11 @@
 <p>XML RPC:</p>
 <p>Writting a similar request and response on the basis of the course on XML-RPC.</p>
 <h6>Exercise3</h6>
-<p></p>
-<p></p>
+<p>Exercise: Writing a SOAP Client</p>
+<p>The goal is to write a Java application that consumes a web service.</p>
+<p><b>->IPLocationFinder.</b></p>
+<p>We can get the address on the basis of ip address inputed.</p>
+<br /><br />
+<h2>TD2</h2>
+<p>Write a SOAP web service and test it.</p>
+<h6>JaveEE+GlassFish4.0</h6>
