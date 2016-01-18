@@ -22,6 +22,6 @@
 <h6>JaveEE+GlassFish4.0</h6>
 <p>Write a SOAP web service and test it.</p>
 <p>The name of the projet Web Service: <b>CurrencyConvertor</b></p>
-<p>This is the description in detail of TD2: <a href="">TD2</a></p>
+<p>This is the description in detail of TD2: <a href="https://github.com/yishuo/Web-Service/blob/master/TD2/TD%202%202016.pdf">TD2</a></p>
 <br /><br />
 <h2>TD3</h2>
