@@ -25,3 +25,13 @@
 <p>This is the description in detail of TD2: <a href="https://github.com/yishuo/Web-Service/blob/master/TD2/TD%202%202016.pdf">TD2</a></p>
 <br /><br />
 <h2>TD3</h2>
+<h5>Twitter OAuth + Parse Json + Retrieving/Analyzing/Update in Twitter + twitter4j</h5>
+<h6>Objectives:</h6>
+<p>– Write a Twitter RESTful client application that</p>
+<p>1. Can access your twitter account (e.g. your time-line).</p>
+<p>2. Reads data about your friends (people you follow) and your followers.</p>
+<p>3. Aggregates the data of your friends and generate simple statistical information</p>
+<p>4. Post automatic tweets on your wall.</p>
+<h6>The package Twitter4J</h6>
+<p>This is the description in detail of TD3: <a href="">TD3</a></p>
+<br /><br />
