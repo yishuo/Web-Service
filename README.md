@@ -33,6 +33,6 @@
 <p>3. Aggregates the data of your friends and generate simple statistical information</p>
 <p>4. Post automatic tweets on your wall.</p>
 <h6>The package Twitter4J</h6>
-<p>This is the description in detail of TD3: <a href="">TD3</a></p>
+<p>This is the description in detail of TD3: <a href="https://github.com/yishuo/Web-Service/blob/master/TD3/TD3%202016.pdf">TD3</a></p>
 <br /><br />
 <h2>TD4</h2>
