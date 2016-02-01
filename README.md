@@ -52,3 +52,10 @@ API that provides support in creating web services according to the Representati
 Transfer (REST) architectural pattern.</p>
 <p>This is the description in detail of TD4: <a href="https://github.com/yishuo/Web-Service/blob/master/TD4/TD4%202016.pdf">TD4</a></p>
 <br /><br />
+
+<h2>TD5</h2>
+<h6>Objectives</h6>
+<p>– Introduction to Jersey: Java for RESTful services.</p>
+<p>– Develop a RESTful service that connects to the DB to answers GET & Other requests.</p>
+<p>This is the description in detail of TD4: <a href="">TD5</a></p>
+<br /><br />
