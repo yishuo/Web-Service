@@ -39,3 +39,16 @@
 
 
 <h2>TD4</h2>
+<h5>Compare the differences between RESTful Services and SOAP services.</h5>
+<h6>Objectives:</h6>
+<p>– Introduction to Jersey: Java for RESTful services.</p>
+<p>– Develop a RESTful service that answers GET requests.</p>
+<h6>Jersey:</h6>
+<p>Jersey RESTful Web Services framework is an open source, production quality, framework
+for developing RESTful Web Services in Java that provides support for JAX-RS APIs and serves
+as a JAX-RS Reference Implementation.</p>
+<p>JAX-RS: Java API for RESTful Web Services (JAX-RS) is a Java programming language
+API that provides support in creating web services according to the Representational State
+Transfer (REST) architectural pattern.</p>
+<p>This is the description in detail of TD4: <a href="https://github.com/yishuo/Web-Service/blob/master/TD4/TD4%202016.pdf">TD4</a></p>
+<br /><br />
