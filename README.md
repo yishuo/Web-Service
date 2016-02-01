@@ -57,5 +57,5 @@ Transfer (REST) architectural pattern.</p>
 <h6>Objectives</h6>
 <p>– Introduction to Jersey: Java for RESTful services.</p>
 <p>– Develop a RESTful service that connects to the DB to answers GET & Other requests.</p>
-<p>This is the description in detail of TD4: <a href="https://github.com/yishuo/Web-Service/blob/master/TD5/TD5.pdf">TD5</a></p>
+<p>This is the description in detail of TD5: <a href="https://github.com/yishuo/Web-Service/blob/master/TD5/TD5.pdf">TD5</a></p>
 <br /><br />
