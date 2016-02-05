@@ -1,0 +1,58 @@
+<!-- <!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>Hello!</h1>
+
+</body>
+</html> -->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<title>Rest Example: Post</title>
+	
+</head>
+<body>
+
+<h1>API Post Example</h1>
+
+<form  action="http://localhost:8080/TD4/v1/converterApp/currencyConverter/offices" method="post">
+<table>
+<tr>
+	<td>Office_City</td>
+	<td><input type="text" name="city" id="city" maxlength="50" value="paris"></td>
+</tr>
+<!-- Made a change to PC_PARTS_CODE input after episode 6, input should ONLY numeric -->
+<tr>
+	<td>Office_Manager</td>
+	<td><input type="text" name="manager" id="manager" maxlength="50" value="Manager1"></td>
+</tr>
+<tr>
+	<td>Email</td>
+	<td><input type="text" name="email" id="email" maxlength="50" value="Paris3@rest.fr"></td>
+</tr>
+<tr>
+	<td>year_Founded</td>
+	<td><input type="text" name="year_founded" id="year_founded" maxlength="4" value="2010"></td>
+</tr>
+<tr>
+	<td></td>
+	<td><input type="submit" value="Submit"> Using JSON Array and Object</td>
+</tr>
+<tr>
+	<td></td>
+	<td><input type="submit" value="Submit"> Using JSON Array and Object</td>
+</tr>
+</table>
+</form>
+
+<br />
+<div id="div_ajaxResponse"></div>
+
+</body>
+</html>
