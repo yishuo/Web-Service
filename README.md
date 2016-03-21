@@ -14,7 +14,7 @@
 <h6>Exercise3</h6>
 <p>Exercise: Writing a SOAP Client</p>
 <p>The goal is to write a Java application that consumes a web service.</p>
-<p><b>->IPLocationFinder.</b></p>
+<p><b>->&nbsp;IPLocationFinder.</b></p>
 <p>We can get the address on the basis of ip address inputed.</p>
 <p>This is the description in detail of TD1: <a href="https://github.com/yishuo/Web-Service/blob/master/TD1/TD1.pdf">TD1</a></p>
 <br /><br />
